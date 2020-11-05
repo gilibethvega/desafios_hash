@@ -15,9 +15,6 @@ ventas = {
 
 ventas.each do |k,v|
   if v>45000
-  puts v
+  puts k
   end
 end
-
-
-
